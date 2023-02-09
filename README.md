@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sang Bong Lee! <br/><a href="https://github.com/bestcoolestp/Portfolio-front-end-angular">Front-end developer</a></h1>
+<h1>Hi, I'm Sang Bong Lee! <br/><a href="https://github.com/bestcoolestp/Portfolio-front-end-angular">Front-end developer with Angular</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
