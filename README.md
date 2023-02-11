@@ -5,7 +5,7 @@
 - <b>Project01</b>
   - [The Journey Begins!](https://github.com/bestcoolestp/project01-portfolio)
 - <b>Project02</b>
-  - [Simple Calculator with HTML, CSS, Javascript, & Angular]()
+  - [Simple Calculator with HTML, CSS, Javascript, & Angular](https://github.com/bestcoolestp/project02-portfolio)
 - <b>Project03</b>
   - [E-Commerce]()
 - <b>Project04</b>
