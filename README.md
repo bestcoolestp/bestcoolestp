@@ -2,15 +2,15 @@
 
 <h2>👨‍💻 The Road To Web Developer Projects:</h2>
 
-- <b>The Journey Begins</b>
-  - [HTML, CSS, Javascript, & Angular]()
 - <b>Project01</b>
-  - [Simple Calculator](https://github.com/bestcoolestp/Portfolio-front-end-angular)
+  - [The Journey Begins!](https://github.com/bestcoolestp/project01-portfolio)
 - <b>Project02</b>
-  - [E-Commerce]()
+  - [Simple Calculator with HTML, CSS, Javascript, & Angular]()
 - <b>Project03</b>
-  - [E-Bookstore]()
+  - [E-Commerce]()
 - <b>Project04</b>
+  - [E-Bookstore]()
+- <b>Project05</b>
   - [🔭 I’m currently working on]
 - <b>RxJS</b>
   - [- 🌱 I’m currently learning]()
