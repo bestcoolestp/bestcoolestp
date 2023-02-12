@@ -9,7 +9,7 @@
 - <b>Project03</b>
   - [E-Commerce](https://github.com/bestcoolestp/project03-portfolio)
 - <b>Project04</b>
-  - [E-Bookstore]()
+  - [E-Bookstore](https://github.com/bestcoolestp/project04-portfolio)
 - <b>Project05</b>
   - [🔭 I’m currently working on]
 - <b>RxJS</b>
