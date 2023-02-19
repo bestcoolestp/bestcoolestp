@@ -27,7 +27,7 @@
 [<img align="left" alt="Lee Sang Bong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Lee Sang Bong | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
+[twitter]: https://twitter.com/BestcoolestL
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/
 [linkedin]: https://www.linkedin.com/in/sang-bong-lee-0b2457154/
