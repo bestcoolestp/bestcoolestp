@@ -14,10 +14,11 @@
   - [HTML CSS JS Projects01](https://github.com/bestcoolestp/HTML-CSS-JS-Projects)
 - <b>Plan06</b>
   - [HTML CSS JS projects02](https://github.com/bestcoolestp/HTML-CSS-JS-Projects-Beginner-Level-)
-- <b>Plan07</b>(https://github.com/bestcoolestp/JavaScript30)
+- <b>Plan07</b>
+  - [My Practice Of JavaScript 30 Day Challenge Forked By Wesbos/JavaScript30](https://github.com/bestcoolestp/JavaScript30)
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺</h2>
 
 - []()
 - []()
