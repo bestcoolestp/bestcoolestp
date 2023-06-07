@@ -2,18 +2,20 @@
 
 <h2>👨‍💻 The Road To Web Developer Projects:</h2>
 
-- <b>Project01</b>
+- <b>Plan01</b>
   - [The Journey Begins!](https://github.com/bestcoolestp/project01-portfolio)
-- <b>Project02</b>
+- <b>Plan02</b>
   - [Simple Calculator with HTML, CSS, Javascript, & Angular](https://github.com/bestcoolestp/project02-portfolio)
-- <b>Project03</b>
+- <b>Plan03</b>
   - [E-Commerce](https://github.com/bestcoolestp/project03-portfolio)
-- <b>Project04</b>
+- <b>Plan04</b>
   - [E-Bookstore](https://github.com/bestcoolestp/project04-portfolio)
-- <b>Project05</b>
-  - [🔭 I’m currently working on]
-- <b>RxJS</b>
-  - [- 🌱 I’m currently learning]()
+- <b>Plan05</b>
+  - [HTML CSS JS Projects01](https://github.com/bestcoolestp/HTML-CSS-JS-Projects)
+- <b>Plan06</b>
+  - [HTML CSS JS projects02](https://github.com/bestcoolestp/HTML-CSS-JS-Projects-Beginner-Level-)
+- <b>Plan07</b>(https://github.com/bestcoolestp/JavaScript30)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
