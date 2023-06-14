@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lee Sang Bong! <br/><a href="https://github.com/bestcoolestp/project01-portfolio">Front-End Developer In Angular</a></h1>
+<h1>Hi, I'm Lee Sang Bong! <br/><a href="https://github.com/bestcoolestp/project01-portfolio">Front-End Web Developer in Angular</a></h1>
 
 <h2>👨‍💻 The Road To Web Developer Projects:</h2>
 
@@ -16,6 +16,7 @@
   - [HTML CSS JS projects02](https://github.com/bestcoolestp/HTML-CSS-JS-Projects-Beginner-Level-)
 - <b>Plan07</b>
   - [My Practice Of JavaScript 30 Day Challenge Forked By Wesbos/JavaScript30](https://github.com/bestcoolestp/JavaScript30)
+- <b>Plan08</b> 
 
 
 <h2>📺</h2>
