@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lee Sang Bong! <br/><a href="https://github.com/bestcoolestp/project01-portfolio">Front-End Web Developer in Angular</a></h1>
+<h1>Hello World, I'm Lee Sang Bong! <br/><a href="https://github.com/bestcoolestp/project01-portfolio">Front-End Web Developer in Angular(potentially fullstack developer)</a></h1>
 
 <h2>👨‍💻 The Road To Web Developer Projects:</h2>
 
@@ -7,17 +7,17 @@
 - <b>Plan02</b>
   - [Simple Calculator with HTML, CSS, Javascript, & Angular](https://github.com/bestcoolestp/project02-portfolio)
 - <b>Plan03</b>
-  - [E-Commerce](https://github.com/bestcoolestp/project03-portfolio)
+  - [E-Commerce in Angular](https://github.com/bestcoolestp/project03-portfolio)
 - <b>Plan04</b>
-  - [E-Bookstore](https://github.com/bestcoolestp/project04-portfolio)
+  - [E-Bookstore in Angular](https://github.com/bestcoolestp/project04-portfolio)
 - <b>Plan05</b>
-  - [HTML CSS JS Projects01](https://github.com/bestcoolestp/HTML-CSS-JS-Projects)
+  - [HTML CSS JS 12Projects](https://github.com/bestcoolestp/HTML-CSS-JS-Projects)
 - <b>Plan06</b>
-  - [HTML CSS JS projects02](https://github.com/bestcoolestp/HTML-CSS-JS-Projects-Beginner-Level-)
+  - [HTML CSS JS 16projects](https://github.com/bestcoolestp/HTML-CSS-JS-Projects-Beginner-Level-)
 - <b>Plan07</b>
   - [My Practice Of JavaScript 30 Day Challenge Forked By Wesbos/JavaScript30](https://github.com/bestcoolestp/JavaScript30)
 - <b>Plan08</b> 
-
+  - Node.JS & Express(ongoing)
 
 <h2>📺</h2>
 
