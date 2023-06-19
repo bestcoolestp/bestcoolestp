@@ -17,6 +17,8 @@
 - <b>Plan07</b>
   - [My Practice Of JavaScript 30 Day Challenge Forked By Wesbos/JavaScript30](https://github.com/bestcoolestp/JavaScript30)
 - <b>Plan08</b> 
+  - [JavaScript_Practice_Projects](https://github.com/bestcoolestp/JavaScript_Practice_Projects)
+- <b>Plan09</b> 
   - Node.JS & Express(ongoing)
 
 <h2>📺</h2>
