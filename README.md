@@ -1,4 +1,4 @@
-<h1>Hello World, I'm Lee Sang Bong! <br/><a href="https://github.com/bestcoolestp/project01-portfolio">Front-End Web Developer in Angular(potentially fullstack developer)</a></h1>
+<h1>Hello World, I'm Lee Sang Bong! <br/>Front-End Web Developer in Angular(potentially fullstack developer)</h1>
 
 <h2>👨‍💻 The Road To Web Developer Projects:</h2>
 
