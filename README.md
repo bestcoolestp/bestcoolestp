@@ -19,9 +19,11 @@
 - <b>Plan08</b> 
   - [JavaScript_Practice_Projects](https://github.com/bestcoolestp/JavaScript_Practice_Projects)
 - <b>Plan09</b>
+  - [Weather Live with API](https://github.com/bestcoolestp/Simple_Weather_App)
+- <b>Plan10</b>
   - [Angular Live Blog App in Firebase](ready to be uploaded)
   - [Angular Live Blog App Dashboard Backend-side in Firebase](ready to be uploaded)
-- <b>Plan10</b> 
+- <b>Plan11</b> 
   - Node.JS & Express(ongoing)
 
 <h2>📺</h2>
