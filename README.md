@@ -21,9 +21,11 @@
 - <b>Plan09</b>
   - [Weather Live with API](https://github.com/bestcoolestp/Simple_Weather_App)
 - <b>Plan10</b>
+  - [QR Code Generator]()
+- <b>Plan11</b>
   - [Angular Live Blog App in Firebase](ready to be uploaded)
   - [Angular Live Blog App Dashboard Backend-side in Firebase](ready to be uploaded)
-- <b>Plan11</b> 
+- <b>Plan12</b> 
   - Node.JS & Express(ongoing)
 
 <h2>📺</h2>
