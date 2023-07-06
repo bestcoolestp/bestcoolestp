@@ -9,7 +9,7 @@
 - <b>Plan03</b>
   - [E-Commerce in Angular](https://github.com/bestcoolestp/project03-portfolio)
 - <b>Plan04</b>
-  - [E-Bookstore in Angular](https://github.com/bestcoolestp/project04-portfolio)
+  - [E-Bookstore in Angular & Tailwind](https://github.com/bestcoolestp/project04-portfolio)
 - <b>Plan05</b>
   - [HTML CSS JS 12Projects](https://github.com/bestcoolestp/HTML-CSS-JS-Projects)
 - <b>Plan06</b>
