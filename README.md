@@ -5,27 +5,29 @@
 - <b>Plan01</b>
   - [The Journey Begins!](https://github.com/bestcoolestp/project01-portfolio)
 - <b>Plan02</b>
-  - [Simple Calculator with HTML, CSS, Javascript, & Angular](https://github.com/bestcoolestp/project02-portfolio)
+  - [Simple Todo List App with Angular!](https://github.com/bestcoolestp/ToDoList_Angular/tree/main)
 - <b>Plan03</b>
-  - [E-Commerce in Angular](https://github.com/bestcoolestp/project03-portfolio)
+  - [Simple Calculator with HTML, CSS, Javascript, & Angular](https://github.com/bestcoolestp/project02-portfolio)
 - <b>Plan04</b>
-  - [E-Bookstore in Angular & Tailwind](https://github.com/bestcoolestp/project04-portfolio)
+  - [E-Commerce in Angular](https://github.com/bestcoolestp/project03-portfolio)
 - <b>Plan05</b>
-  - [HTML CSS JS 12Projects](https://github.com/bestcoolestp/HTML-CSS-JS-Projects)
+  - [E-Bookstore in Angular & Tailwind](https://github.com/bestcoolestp/project04-portfolio)
 - <b>Plan06</b>
-  - [HTML CSS JS 16projects](https://github.com/bestcoolestp/HTML-CSS-JS-Projects-Beginner-Level-)
+  - [HTML CSS JS 12Projects](https://github.com/bestcoolestp/HTML-CSS-JS-Projects)
 - <b>Plan07</b>
+  - [HTML CSS JS 16projects](https://github.com/bestcoolestp/HTML-CSS-JS-Projects-Beginner-Level-)
+- <b>Plan08</b>
   - [My Practice Of JavaScript 30 Day Challenge Forked By Wesbos/JavaScript30](https://github.com/bestcoolestp/JavaScript30)
-- <b>Plan08</b> 
+- <b>Plan09</b> 
   - [JavaScript_Practice_Projects](https://github.com/bestcoolestp/JavaScript_Practice_Projects)
-- <b>Plan09</b>
-  - [Weather Live with API](https://github.com/bestcoolestp/Simple_Weather_App)
 - <b>Plan10</b>
-  - [QR Code Generator](https://github.com/bestcoolestp/QR_Code_Generator)
+  - [Weather Live with API](https://github.com/bestcoolestp/Simple_Weather_App)
 - <b>Plan11</b>
+  - [QR Code Generator](https://github.com/bestcoolestp/QR_Code_Generator)
+- <b>Plan12</b>
   - [Angular Live Blog App in Firebase](ready to be uploaded)
   - [Angular Live Blog App Dashboard Backend-side in Firebase](ready to be uploaded)
-- <b>Plan12</b>
+- <b>Plan13</b>
 - 🔭 I’m currently working on ...
   - Node.JS & Express(ongoing)
   - Mongodb & Mongoose(ongoing)
