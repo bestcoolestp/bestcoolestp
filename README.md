@@ -28,10 +28,13 @@
   - [Angular Live Blog App in Firebase](ready to be uploaded)
   - [Angular Live Blog App Dashboard Backend-side in Firebase](ready to be uploaded)
 - <b>Plan13</b>
- - [Webstore in Angular/Tailwind, Node.js, and Stripe.!](https://github.com/bestcoolestp/bestcoolestp-Online_Store_Angular_Node.js_Stripe)
+  - [Webstore in Angular/Tailwind, Node.js, and Stripe.!](https://github.com/bestcoolestp/bestcoolestp-Online_Store_Angular_Node.js_Stripe)
+
+
 - 🔭 I’m currently working on ...
   - Node.JS & Express(ongoing)
   - Mongodb & Mongoose(ongoing)
+  - D3(Data Visualization)(ongoing)
 
 <h2>📺</h2>
 
