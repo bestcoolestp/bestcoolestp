@@ -1,4 +1,4 @@
-<h1>Hello World, I'm Lee Sang Bong! <br/>Front-End Web Developer in Angular(potentially fullstack developer)</h1>
+<h1>Hello World, I'm Lee Sang Bong! <br/>FullStack Web Developer in Angular</h1>
 
 <h2>👨‍💻 The Road To Web Developer Projects:</h2>
 
@@ -29,6 +29,8 @@
   - [Angular Live Blog App Dashboard Backend-side in Firebase](ready to be uploaded)
 - <b>Plan13</b>
   - [Webstore in Angular/Tailwind, Node.js, and Stripe.!](https://github.com/bestcoolestp/bestcoolestp-Online_Store_Angular_Node.js_Stripe)
+- <b>Plan14</b>
+  - [Data Visualization D3 -Bar Chart!](https://github.com/bestcoolestp/bestcoolestp-Online_Store_Angular_Node.js_Stripe)
 
 
 - 🔭 I’m currently working on ...
