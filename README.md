@@ -1,6 +1,6 @@
-<h1>Hello World, I'm Sang Bong Lee <br/>FullStack Web Developer in Angular, Node.js, MySQL, MongoDB</h1>
+<h1>Hello World, I'm Sang Bong Lee. <br/>FullStack Web Developer in Angular, Node.js, MySQL, MongoDB</h1>
 
-<h2>👨‍💻 The Road To Web Developer Projects:</h2>
+<h2>👨‍💻 The Adventure To explore Web Development Projects:</h2>
 
 - <b>Plan01</b>
   - [The Journey Begins!](https://github.com/bestcoolestp/project01-portfolio)
