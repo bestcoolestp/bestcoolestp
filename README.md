@@ -30,7 +30,7 @@
 - <b>Plan13</b>
   - [Webstore in Angular/Tailwind, Node.js, and Stripe.!](https://github.com/bestcoolestp/bestcoolestp-Online_Store_Angular_Node.js_Stripe)
 - <b>Plan14</b>
-  - [Data Visualization D3 -Bar Chart!](https://github.com/bestcoolestp/bestcoolestp-Online_Store_Angular_Node.js_Stripe)
+  - [Data Visualization D3 -Bar Chart!](https://github.com/bestcoolestp/Data_Visualisation_D3_Bar_Chart)
 
 
 - 🔭 I’m currently working on ...
