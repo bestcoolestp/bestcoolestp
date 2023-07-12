@@ -1,4 +1,4 @@
-<h1>Hello World, I'm Lee Sang Bong! <br/>FullStack Web Developer in Angular, Node.js, MySQL, MongoDB</h1>
+<h1>Hello World, I'm Sang Bong Lee <br/>FullStack Web Developer in Angular, Node.js, MySQL, MongoDB</h1>
 
 <h2>👨‍💻 The Road To Web Developer Projects:</h2>
 
