@@ -36,10 +36,7 @@
 
 
 - 🔭 I’m currently working on ...
-  - Node.JS & Express(ongoing)
-  - Mongodb & Mongoose(ongoing)
   - D3(Data Visualization)(ongoing)
-  - MySQL(Database)(ongoing)
   - Wordpress(ongoing)
 
 
