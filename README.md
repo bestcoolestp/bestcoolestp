@@ -39,8 +39,8 @@
 
 
 - 🔭 I’m currently working on ...
-  - D3(Data Visualization)(ongoing)
   - Wordpress(ongoing)
+  - Wordpress(php)
 
 
 <h2>📺</h2>
