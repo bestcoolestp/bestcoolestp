@@ -34,6 +34,7 @@
   - [Data Visualization D3 -Scatterplot Graph!](https://github.com/bestcoolestp/Data_Visualisation_D3_Scatterplots)
   - [Data Visualization D3 -Heat Map!](https://github.com/bestcoolestp/Data_Visualisation_D3_HeatMap)
   - [Data Visualization D3 -Choropleth Map!](https://github.com/bestcoolestp/Data_Visualisation_D3_Choropleth_Map/tree/main)
+  - [Data Visualization D3 -Treemap Diagram!](https://github.com/bestcoolestp/Data_Visualisation_D3_Treemap_Diagram)
   
 
 
