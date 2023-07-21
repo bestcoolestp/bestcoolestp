@@ -39,8 +39,8 @@
 
 
 - 🔭 I’m currently working on ...
-  - Wordpress(ongoing)
-  - Wordpress(php)
+  - Relational Database(ongoing)
+    
 
 
 <h2>📺</h2>
