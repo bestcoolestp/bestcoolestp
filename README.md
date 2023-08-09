@@ -38,6 +38,7 @@
 - <b>Plan15</b>
   - [Relational Database-Celestial_Bodies](https://github.com/bestcoolestp/FCC_Relational_Database_Celestial_Bodies)
   - [Relational Database-Worldcup](https://github.com/bestcoolestp/FCC_Relational_Database_Worldcup)
+  - [Relational Database-kitty_ipsum_translator](https://github.com/bestcoolestp/FCC_Relational_Database_Kitty_Ipsum/tree/main)
 
 - 🔭 I’m currently working on ...
 
