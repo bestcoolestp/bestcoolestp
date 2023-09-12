@@ -48,7 +48,7 @@
 - <b>Plan17</b>
   - [MEAN Stack Project - CRUD with RESTful API(Angular, Node.js, MongoDB)](https://github.com/bestcoolestp/MEAN-Stack-RESTful.API-CRUD)
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on C# .NET ...
     
 
 
