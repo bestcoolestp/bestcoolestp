@@ -47,6 +47,8 @@
   - [Register & Login in Angular, Node.js, MongoDB](https://github.com/bestcoolestp/Login_Registration_Angular_node.js_MongoDB)
 - <b>Plan17</b>
   - [MEAN Stack Project - CRUD with RESTful API(Angular, Node.js, MongoDB)](https://github.com/bestcoolestp/MEAN-Stack-RESTful.API-CRUD)
+- <b>Plan18</b>
+  - [Cafe Manager System(HTML, SCSS, JavaScript, Angular, Node.js, MySQL)](https://github.com/bestcoolestp/Cafe_Manager_System/tree/main)
 
 
 - 🔭 I’m currently working on C# .NET ...
