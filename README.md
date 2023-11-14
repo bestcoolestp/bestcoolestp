@@ -1,4 +1,4 @@
-<h1>Hello World, I'm Sang Bong Lee. <br/>Full Stack Developer in Angular, Node.js, MySQL, MongoDB.</h1>
+<h1>Hello World, I'm Sang Bong Lee. <br/>Enthusiastic Junior Software Engineer and Full Stack Developer in Javascript, C#, Angular, .NET, Node.js, ASP.NET Core, SQL, MongoDB.</h1>
 
 <h2>👨‍💻 The Adventure To explore Software Engineer Projects:</h2>
 
