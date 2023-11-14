@@ -49,9 +49,12 @@
   - [MEAN Stack Project - CRUD with RESTful API(Angular, Node.js, MongoDB)](https://github.com/bestcoolestp/MEAN-Stack-RESTful.API-CRUD)
 - <b>Plan18</b>
   - [Cafe Manager System(HTML, SCSS, JavaScript, Angular, Node.js, MySQL)](https://github.com/bestcoolestp/Cafe_Manager_System/tree/main)
+<br></br>
+- <b>Plan19</b>
+  - [Jokes Web App( C#, ASP.NET Core, Entity Framework, SQL )](https://github.com/bestcoolestp/CSharp_ASP.NET_Core_JokesWebApp)
 
 
-- 🔭 I’m currently working on C# .NET ...
+- 🔭 I’m currently working on C# .NET and more...
     
 
 
