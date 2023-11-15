@@ -25,17 +25,14 @@
 - <b>Plan11</b>
   - [QR Code Generator](https://github.com/bestcoolestp/QR_Code_Generator)
 - <b>Plan12</b>
-  - [Angular Live Blog App in Firebase](ready to be uploaded)
-  - [Angular Live Blog App Dashboard Backend-side in Firebase](ready to be uploaded)
-- <b>Plan13</b>
   - [Webstore in Angular/Tailwind, Node.js, and Stripe.!](https://github.com/bestcoolestp/bestcoolestp-Online_Store_Angular_Node.js_Stripe)
-- <b>Plan14</b>
+- <b>Plan13</b>
   - [Data Visualization D3 -Bar Chart!](https://github.com/bestcoolestp/Data_Visualisation_D3_Bar_Chart)
   - [Data Visualization D3 -Scatterplot Graph!](https://github.com/bestcoolestp/Data_Visualisation_D3_Scatterplots)
   - [Data Visualization D3 -Heat Map!](https://github.com/bestcoolestp/Data_Visualisation_D3_HeatMap)
   - [Data Visualization D3 -Choropleth Map!](https://github.com/bestcoolestp/Data_Visualisation_D3_Choropleth_Map/tree/main)
   - [Data Visualization D3 -Treemap Diagram!](https://github.com/bestcoolestp/Data_Visualisation_D3_Treemap_Diagram)
-- <b>Plan15</b>
+- <b>Plan14</b>
   - [Relational Database-Celestial_Bodies](https://github.com/bestcoolestp/FCC_Relational_Database_Celestial_Bodies)
   - [Relational Database-Worldcup](https://github.com/bestcoolestp/FCC_Relational_Database_Worldcup)
   - [Relational Database-kitty_ipsum_translator](https://github.com/bestcoolestp/FCC_Relational_Database_Kitty_Ipsum/tree/main)
@@ -43,14 +40,14 @@
   - [Relational Database-Learning Git by Building an SQL Reference](https://github.com/bestcoolestp/FCC_Relational_Database_Git_By_SQL_Reference/tree/main)
   - [Relational Database-Periodic_Table](https://github.com/bestcoolestp/FCC_Relational_Database_Periodic_Table)
   - [Relational Database-Number_guessing_Game](https://github.com/bestcoolestp/FCC_Relational_Database_Number_Guessing_Game/tree/main)
-- <b>Plan16</b>
+- <b>Plan15</b>
   - [Register & Login in Angular, Node.js, MongoDB](https://github.com/bestcoolestp/Login_Registration_Angular_node.js_MongoDB)
-- <b>Plan17</b>
+- <b>Plan16</b>
   - [MEAN Stack Project - CRUD with RESTful API(Angular, Node.js, MongoDB)](https://github.com/bestcoolestp/MEAN-Stack-RESTful.API-CRUD)
-- <b>Plan18</b>
+- <b>Plan17</b>
   - [Cafe Manager System(HTML, SCSS, JavaScript, Angular, Node.js, MySQL)](https://github.com/bestcoolestp/Cafe_Manager_System/tree/main)
 <br></br>
-- <b>Plan19</b>
+- <b>Plan18</b>
   - [Jokes Web App( C#, ASP.NET Core, Entity Framework, SQL )](https://github.com/bestcoolestp/CSharp_ASP.NET_Core_JokesWebApp)
 
 
