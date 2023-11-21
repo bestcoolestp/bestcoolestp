@@ -43,16 +43,15 @@
 - <b>Plan15</b>
   - [Register & Login in Angular, Node.js, MongoDB](https://github.com/bestcoolestp/Login_Registration_Angular_node.js_MongoDB)
 - <b>Plan16</b>
-  - [MEAN Stack Project - CRUD with RESTful API(Angular, Node.js, MongoDB)](https://github.com/bestcoolestp/MEAN-Stack-RESTful.API-CRUD)
+  - [MEAN Stack Project - CRUD with RESTful API (Angular, Node.js, MongoDB)](https://github.com/bestcoolestp/MEAN-Stack-RESTful.API-CRUD)
 - <b>Plan17</b>
-  - [Cafe Manager System(HTML, SCSS, JavaScript, Angular, Node.js, MySQL)](https://github.com/bestcoolestp/Cafe_Manager_System/tree/main)
+  - [Cafe Manager System (HTML, SCSS, JavaScript, Angular, Node.js, MySQL)](https://github.com/bestcoolestp/Cafe_Manager_System/tree/main)
 <br></br>
 - <b>Plan18</b>
-  - [Jokes Web App( C#, ASP.NET Core, Entity Framework, SQL )](https://github.com/bestcoolestp/CSharp_ASP.NET_Core_JokesWebApp)
-
-
-- 🔭 I’m currently working on C# .NET and more...
-    
+  - [Jokes Web App ( C#, ASP.NET Core, Entity Framework, SQL )](https://github.com/bestcoolestp/CSharp_ASP.NET_Core_JokesWebApp)
+- <b>Plan19</b>
+  - [Chat Web App ( C#, ASP.NET Core, SignalR )](https://github.com/bestcoolestp/ChatApp_Csharp_ASP.NET_signalR/tree/main)
+  
 
 
 <h2>📺</h2>
