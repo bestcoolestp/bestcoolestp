@@ -54,6 +54,9 @@
 
 - <b>Plan20</b>
   - [JS_Kaboom.js_modified_PlatFormer](https://github.com/bestcoolestp/JS_Kaboom.js_modified_PlatFormer)
+
+- <b>Plan21</b>
+  - [.NET Core Entity Framework CRUD Toastr JS with Azure](https://github.com/bestcoolestp/DotNet_Core_Entity_Azure_deployment)
   
 
 
