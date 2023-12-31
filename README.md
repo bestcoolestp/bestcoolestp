@@ -57,7 +57,11 @@
 
 - <b>Project21</b>
   - [.NET Core Entity Framework CRUD Toastr JS with Azure](https://github.com/bestcoolestp/DotNet_Core_Entity_Azure_deployment)
-  
+
+- <b>Project22</b>
+  - [ASP.NET Core SQL database in CRUD](https://github.com/bestcoolestp/MyStore)
+
+
 
 
 <h2>📺</h2>
