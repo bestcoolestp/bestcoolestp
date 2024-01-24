@@ -64,7 +64,8 @@
 - <b>Docker Containers and Kubernetes Fundamentals</b>
   - Ongoing
 
-
+- <b>Project23</b>
+  - [.NET 8 Web API & Entity Framwork CRUD with Migration & SQL Server](https://github.com/bestcoolestp/.NET8_Web_API_EF_CRUD-Migrations-SQL_Server-)
 
 
 <h2>📺</h2>
