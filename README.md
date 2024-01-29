@@ -67,6 +67,9 @@
 - <b>Project23</b>
   - [.NET 8 Web API & Entity Framwork CRUD with Migration & SQL Server](https://github.com/bestcoolestp/.NET8_Web_API_EF_CRUD-Migrations-SQL_Server-)
 
+- <b>Project24</b>
+  - [.NET 8 Blazor SSR(Static Server-Side Rendering) in CRUD operation](https://github.com/bestcoolestp/.NET_8_Blazor_SSR_Crud)
+
 
 <h2>📺</h2>
 
