@@ -70,6 +70,8 @@
 - <b>Project24</b>
   - [.NET 8 Blazor SSR(Static Server-Side Rendering) in CRUD operation](https://github.com/bestcoolestp/.NET_8_Blazor_SSR_Crud)
 
+- <b>Project2</b>
+  - [.NET 8 Blazor WebAssembly in CRUD operation](https://github.com/bestcoolestp/DotNet8BlazorWebAssembly)
 
 <h2>📺</h2>
 
