@@ -72,6 +72,9 @@
 
 - <b>Project25</b>
   - [.NET 8 Blazor WebAssembly CRUD](https://github.com/bestcoolestp/DotNet8BlazorWebAssembly)
+    
+- <b>Project26</b>
+  - [.NET 8 Blazor🔥Authentication & Authorization with Identity](https://github.com/bestcoolestp/Dot_Net8_Blazor_Auths_Identity)
 
 <h2>📺</h2>
 
