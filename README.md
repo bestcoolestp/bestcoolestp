@@ -68,10 +68,10 @@
   - [.NET 8 Web API & Entity Framwork CRUD with Migration & SQL Server](https://github.com/bestcoolestp/.NET8_Web_API_EF_CRUD-Migrations-SQL_Server-)
 
 - <b>Project24</b>
-  - [.NET 8 Blazor SSR(Static Server-Side Rendering) in CRUD operation](https://github.com/bestcoolestp/.NET_8_Blazor_SSR_Crud)
+  - [.NET 8 Blazor 🔥 SSR(Static Server-Side Rendering) in CRUD operation](https://github.com/bestcoolestp/.NET_8_Blazor_SSR_Crud)
 
 - <b>Project25</b>
-  - [.NET 8 Blazor WebAssembly CRUD](https://github.com/bestcoolestp/DotNet8BlazorWebAssembly)
+  - [.NET 8 Blazor 🔥 WebAssembly CRUD](https://github.com/bestcoolestp/DotNet8BlazorWebAssembly)
     
 - <b>Project26</b>
   - [.NET 8 Blazor🔥Authentication & Authorization with Identity](https://github.com/bestcoolestp/Dot_Net8_Blazor_Auths_Identity)
