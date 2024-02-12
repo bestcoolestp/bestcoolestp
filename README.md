@@ -76,6 +76,9 @@
 - <b>Project26</b>
   - [.NET 8 Blazor🔥Authentication & Authorization with Identity](https://github.com/bestcoolestp/Dot_Net8_Blazor_Auths_Identity)
 
+- <b>Project27</b>
+  - [Build a Chat App with .NET 8 Blazor🔥WebAssembly SignalR](https://github.com/bestcoolestp/DotNet_8_Blazor_SignalR_Chatapp)
+
 <h2>📺</h2>
 
 - []()
