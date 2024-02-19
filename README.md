@@ -61,8 +61,8 @@
 - <b>Project22</b>
   - [ASP.NET Core SQL database in CRUD](https://github.com/bestcoolestp/MyStore)
 
-- <b>Docker Containers and Kubernetes Fundamentals</b>
-  - Ongoing
+- <b>Task1: Docker Containers and Kubernetes Fundamentals</b>
+  - Mission Complete 
 
 - <b>Project23</b>
   - [.NET 8 Web API & Entity Framwork CRUD with Migration & SQL Server](https://github.com/bestcoolestp/.NET8_Web_API_EF_CRUD-Migrations-SQL_Server-)
@@ -78,6 +78,9 @@
 
 - <b>Project27</b>
   - [Build a Chat App with .NET 8 Blazor🔥WebAssembly SignalR](https://github.com/bestcoolestp/DotNet_8_Blazor_SignalR_Chatapp)
+
+- <b>Task 2: Learning JAVA</b>
+  - Actively Learning Java
 
 <h2>📺</h2>
 
