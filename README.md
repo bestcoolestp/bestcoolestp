@@ -83,7 +83,7 @@
   - Actively Learning Java
 
 - <b>Project28</b>
-  - [On going - Build a Movie App with .NET 8 Blazor🔥 inspired by Coder Foundry]()
+  - [On going - Build a Movie App with .NET 8 Blazor🔥 inspired by Coder Foundry](https://github.com/bestcoolestp/.NET8_Blazor_Movie_TMDB_API)
 
 <h2>📺</h2>
 
