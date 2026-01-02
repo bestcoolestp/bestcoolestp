@@ -14,7 +14,7 @@ Goal: Associate DevOps / SRE role — production-focused, automation-first.
 ### 🔗 [DevOps-Portfolio](https://github.com/bestcoolestp/DevOps-Portfolio)
 
 ---
-<h1>Hello World, I'm Sang Bong Lee. <br/>Enthusiastic Software Engineer and Full Stack Developer in Javascript, C#, Angular, .NET, Node.js, ASP.NET Core, SQL, MongoDB.</h1>
+<h1>Hello World, I'm Sang Bong Lee. <br/>Enthusiastic Software Engineer and Full Stack Developer in JS, C#, ASP.NET MVC, MySQL, IIS.</h1>
 
 <h2>👨‍💻 The Adventure To explore Software Engineer Projects:</h2>
 
