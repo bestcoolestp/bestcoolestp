@@ -4,7 +4,7 @@
 **Location:** Seoul, South Korea (open to remote/relocation)  
 
 - **CKA (Certified Kubernetes Administrator, Nov 2025)**
-- Kubernetes • Docker • GitHub Actions • Jenkins
+- Docker • Kubernetes • GitHub Actions • Jenkins
 - Ansible • Terraform • Linux • CI/CD • Monitoring
 - AWS SAA – in progress
   
@@ -20,7 +20,7 @@ Goal: Associate DevOps / SRE role — production-focused, automation-first.
 
 These are older learning projects from my full-stack journey.
 
-<h1>Hello World, I'm Sang Bong Lee. <br/>Enthusiastic Software Engineer and Full Stack Developer in JS, C#, ASP.NET MVC, MySQL, IIS.</h1>
+<h1>Hello World, I'm Sang Bong Lee. <br/>Enthusiastic Software Engineer and Full Stack Developer in JS, C#, ASP.NET MVC, LINQ, EF, MySQL, IIS.</h1>
 
 <h2>👨‍💻 The Adventure To explore Software Engineer Projects:</h2>
 
