@@ -1,15 +1,13 @@
-# DevOps / SRE – Career Transition
+# DevOps & SRE Portfolio – Sang Bong Lee
 
-I’m moving from building apps → to building reliable systems.
-
-I care about deployments, automation, reproducibility, and reducing risk.
-
+**Target role:** Associate DevOps or SRE  
+**Location:** Seoul, South Korea (open to remote/relocation)  
 
 - **CKA (Certified Kubernetes Administrator, Nov 2025)**
-- AWS SAA – in progress
 - Kubernetes • Docker • GitHub Actions • Jenkins
-- Terraform • Linux • CI/CD • Monitoring
-
+- Ansible • Terraform • Linux • CI/CD • Monitoring
+- AWS SAA – in progress
+  
 Currently: Software Engineer at IMGTech (South Korea)  
 Goal: Associate DevOps / SRE role — production-focused, automation-first.
 
