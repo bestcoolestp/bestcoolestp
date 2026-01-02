@@ -1,6 +1,9 @@
 # DevOps / SRE – Career Transition
 
-I build, ship, and operate systems.
+I’m moving from building apps → to building reliable systems.
+
+I care about deployments, automation, reproducibility, and reducing risk.
+
 
 - **CKA (Certified Kubernetes Administrator, Nov 2025)**
 - AWS SAA – in progress
