@@ -17,7 +17,6 @@ Goal: Associate DevOps / SRE role — production-focused, automation-first.
 ### 🔗 [DevOps-Portfolio](https://github.com/bestcoolestp/DevOps-Portfolio)
 
 ---
----
 
 ## Previous Development Projects (Archive)
 
