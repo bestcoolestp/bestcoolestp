@@ -108,10 +108,6 @@ These are older learning projects from my full-stack journey.
   - [On going - Build a Movie App with .NET 8 Blazor🔥 inspired by Coder Foundry](https://github.com/bestcoolestp/.NET8_Blazor_Movie_TMDB_API)
 
 <h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="Lee Sang Bong | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Lee Sang Bong | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Lee Sang Bong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Lee Sang Bong | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/BestcoolestL
 [youtube]: https://www.youtube.com/
