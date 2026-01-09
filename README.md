@@ -101,18 +101,14 @@ These are older learning projects from my full-stack journey.
 - <b>Project27</b>
   - [Build a Chat App with .NET 8 Blazor🔥WebAssembly SignalR](https://github.com/bestcoolestp/DotNet_8_Blazor_SignalR_Chatapp)
 
-- <b>Task 2: Learning JAVA</b>
-  - Actively Learning Java
-
 - <b>Project28</b>
   - [On going - Build a Movie App with .NET 8 Blazor🔥 inspired by Coder Foundry](https://github.com/bestcoolestp/.NET8_Blazor_Movie_TMDB_API)
 
 <h2> 🤳 Connect with me:</h2>
 
 [twitter]: https://twitter.com/BestcoolestL
-[youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/
-[linkedin]: [https://www.linkedin.com/in/sang-bong-lee-0b2457154/](https://www.linkedin.com/in/sang-bong-lee-devops/)
+[linkedin]: https://www.linkedin.com/in/sang-bong-lee-devops/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
