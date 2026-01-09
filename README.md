@@ -104,11 +104,11 @@ These are older learning projects from my full-stack journey.
 - <b>Project28</b>
   - [On going - Build a Movie App with .NET 8 Blazor🔥 inspired by Coder Foundry](https://github.com/bestcoolestp/.NET8_Blazor_Movie_TMDB_API)
 
-<h2> 🤳 Connect with me:</h2>
+## 🤳 Connect with me:
 
-[twitter]: https://twitter.com/BestcoolestL
-[instagram]: https://www.instagram.com/
-[linkedin]: https://www.linkedin.com/in/sang-bong-lee-devops/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sang-bong-lee-devops/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BestcoolestL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
