@@ -56,7 +56,7 @@ I previously built a wide range of applications across:
 
 - JavaScript / Angular
 - C# / ASP.NET / .NET Core / Blazor
-- Node.js / MongoDB / SQL
+- Node.js / MongoDB / MySQL
 - REST APIs, real-time apps, data visualization
 
 These projects demonstrate **strong engineering fundamentals** that now support my DevOps/SRE transition.
