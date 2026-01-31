@@ -86,7 +86,7 @@ These projects remain available as an archive of my development background.
 📂 **Archived projects:**  
 [Full-stack & software projects](https://github.com/bestcoolestp?tab=repositories)
 
-(Angular, JavaScript, C#, ASP.NET MVC/Core, EF, SQL, MongoDB, etc.)
+(JavaScript, JQuery, C#, ASP.NET MVC, LINQ, EF, MySQL, IIS, Java, Spring, Apache Tomcat, Eclipse, etc.)
 
 ---
 
