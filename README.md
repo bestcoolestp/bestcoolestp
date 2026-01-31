@@ -60,7 +60,7 @@ These are the projects I want recruiters to review first.
 - Real-world troubleshooting (Docker CLI, kubeconfig, TLS, endpoints)
 
 🔗 **View project:**  
-[ci-cd/jenkins-kind-cicd](./ci-cd/jenkins-kind-cicd)
+[ci-cd/jenkins-kind-cicd](https://github.com/bestcoolestp/DevOps-Portfolio/tree/main/ci-cd/jenkins-kind-cicd)
 
 ---
 
