@@ -38,8 +38,7 @@ These are the projects I want recruiters to review first.
 - Reliability validation (replicas, pod recreation)
 - DevOps documentation discipline
 
-🔗 **View project:**  
-[k8s-projects/sample-app-deploy](https://github.com/bestcoolestp/DevOps-Portfolio/tree/main/k8s-projects/sample-app-deploy)
+🔗 **View project:**  [k8s-projects/sample-app-deploy](https://github.com/bestcoolestp/DevOps-Portfolio/tree/main/k8s-projects/sample-app-deploy)
 
 ---
 
@@ -59,8 +58,7 @@ These are the projects I want recruiters to review first.
 - Kubernetes automation
 - Real-world troubleshooting (Docker CLI, kubeconfig, TLS, endpoints)
 
-🔗 **View project:**  
-[ci-cd/jenkins-kind-cicd](https://github.com/bestcoolestp/DevOps-Portfolio/tree/main/ci-cd/jenkins-kind-cicd)
+🔗 **View project:**  [ci-cd/jenkins-kind-cicd](https://github.com/bestcoolestp/DevOps-Portfolio/tree/main/ci-cd/jenkins-kind-cicd)
 
 ---
 
@@ -68,8 +66,7 @@ These are the projects I want recruiters to review first.
 
 For the complete set of case studies, infrastructure projects, and automation work, please visit the dedicated portfolio repository:
 
-🔗 **View full portfolio:**  
-[DevOps-Portfolio](https://github.com/bestcoolestp/DevOps-Portfolio)
+🔗 **View full portfolio:**  [DevOps-Portfolio](https://github.com/bestcoolestp/DevOps-Portfolio)
 
 ---
 
