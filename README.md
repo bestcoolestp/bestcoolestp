@@ -1,11 +1,10 @@
-# DevOps / SRE Engineer — Portfolio
+# DevOps / SRE Portfolio — LEE SANG BONG 
 
-**Target role:** Associate DevOps / Site Reliability Engineer  
+**Target role:** Associate DevOps Engineer / SRE  
 **Location:** Seoul, South Korea (open to remote / relocation)
 
----
-
-## Snapshot
+I am a software engineer transitioning into DevOps/SRE, with hands-on experience in
+Kubernetes, CI/CD automation, and production-focused troubleshooting.
 
 - ✅ **CKA – Certified Kubernetes Administrator (Nov 2025)**
 - Kubernetes • Docker • GitHub Actions • Jenkins
@@ -13,60 +12,85 @@
 - AWS Solutions Architect Associate — *in progress*
 - 2+ years professional software engineering experience
 
-Currently: Software Engineer at **IMGTech (South Korea)**  
-Focus: building **reliable, automated, production-ready systems**
+Currently working as a Software Engineer at **IMGTech (South Korea)**.
 
 ---
 
-## 🚀 Featured DevOps Work (Start Here)
+## ⭐ Featured DevOps / SRE Case Studies
 
-### 🔹 Kubernetes Sample App — DevOps/SRE Case Study
-A production-style deployment showing containerization, Kubernetes manifests,
-scaling, and self-healing.
-
-➡️ **[DevOps-Portfolio](https://github.com/bestcoolestp/DevOps-Portfolio)**
-
-What it demonstrates:
-- Dockerized application
-- Kubernetes Deployment, Service, Namespace
-- kind local cluster
-- scaling & pod self-healing
-- clear runbook-style documentation
-
-*(More CI/CD and IaC projects in progress)*
+These are the projects I want recruiters to review first.
 
 ---
 
-## 🧠 DevOps Philosophy
+### 1️⃣ Kubernetes Deployment Case Study (kind)
 
-I focus on:
+📂 `k8s-projects/sample-app-deploy`
 
-- reproducibility over manual steps  
-- automation over heroics  
-- reliability over novelty  
-- documentation that enables handoff  
+**What this shows**
+- Containerized application deployment on Kubernetes
+- Core Kubernetes objects: Namespace, Deployment, Service
+- Horizontal scaling and self-healing behavior
+- Clear, reproducible documentation (runbook-style)
 
-I treat infrastructure as a system that must be **operated**, not just built.
+**Key skills demonstrated**
+- Kubernetes workload design
+- Service networking
+- Reliability validation (replicas, pod recreation)
+- DevOps documentation discipline
 
----
-
-## 🧪 Previous Software Engineering Work (Archive)
-
-I previously built a wide range of applications across:
-
-- JavaScript / Angular
-- C# / ASP.NET / .NET Core / Blazor
-- Node.js / MongoDB / MySQL
-- REST APIs, real-time apps, data visualization
-
-These projects demonstrate **strong engineering fundamentals** that now support my DevOps/SRE transition.
-
-➡️ **[Full Software Project Archive](https://github.com/bestcoolestp?tab=repositories)**
-
-(Individual repos available upon request.)
+🔗 **View project:**  
+[k8s-projects/sample-app-deploy](./k8s-projects/sample-app-deploy)
 
 ---
 
-## 🌐 Connect
+### 2️⃣ CI/CD Case Study — Jenkins → kind → Kubernetes
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sang-bong-lee-devops/)
+📂 `ci-cd/jenkins-kind-cicd`
+
+**What this shows**
+- End-to-end CI/CD pipeline using Jenkins
+- Docker image build and delivery
+- Automated Kubernetes deployment
+- Smoke testing with port-forward and health checks
+
+**Key skills demonstrated**
+- CI/CD pipeline design
+- Jenkins in containerized environments
+- Kubernetes automation
+- Real-world troubleshooting (Docker CLI, kubeconfig, TLS, endpoints)
+
+🔗 **View project:**  
+[ci-cd/jenkins-kind-cicd](./ci-cd/jenkins-kind-cicd)
+
+---
+
+## 🧠 DevOps / SRE Mindset
+
+Across these projects, I focus on:
+
+- repeatable infrastructure
+- fast feedback (smoke tests)
+- failure investigation and root cause analysis
+- clear documentation for handoff and operation
+
+These are not “happy-path” demos — they include real integration issues and fixes
+encountered while working with Windows, Docker Desktop, Jenkins, and Kubernetes.
+
+---
+
+## 📚 Previous Software Engineering Work (Archive)
+
+Before moving into DevOps/SRE, I worked extensively as a full-stack developer.
+These projects remain available as an archive of my development background.
+
+📂 **Archived projects:**  
+[Full-stack & software projects](https://github.com/bestcoolestp?tab=repositories)
+
+(Angular, JavaScript, C#, ASP.NET MVC/Core, EF, SQL, MongoDB, etc.)
+
+---
+
+## 🔗 Connect with me
+
+- **LinkedIn:** https://www.linkedin.com/in/sang-bong-lee-devops/
+- **GitHub:** https://github.com/bestcoolestp
