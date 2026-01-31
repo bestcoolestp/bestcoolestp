@@ -39,7 +39,7 @@ These are the projects I want recruiters to review first.
 - DevOps documentation discipline
 
 🔗 **View project:**  
-[k8s-projects/sample-app-deploy](./k8s-projects/sample-app-deploy)
+[k8s-projects/sample-app-deploy](./DevOps-Portfolio/tree/main/k8s-projects/sample-app-deploy)
 
 ---
 
