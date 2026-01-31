@@ -64,6 +64,15 @@ These are the projects I want recruiters to review first.
 
 ---
 
+## 📂 Full DevOps / SRE Portfolio Repository
+
+For the complete set of case studies, infrastructure projects, and automation work, please visit the dedicated portfolio repository:
+
+🔗 **View full portfolio:**  
+[DevOps-Portfolio](https://github.com/bestcoolestp/DevOps-Portfolio)
+
+---
+
 ## 🧠 DevOps / SRE Mindset
 
 Across these projects, I focus on:
