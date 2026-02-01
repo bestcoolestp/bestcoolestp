@@ -1,4 +1,4 @@
-# DevOps / SRE Portfolio — LEE SANG BONG 
+# DevOps / SRE Portfolio
 
 **Target role:** Associate DevOps Engineer / SRE  
 **Location:** Seoul, South Korea (open to remote / relocation)
