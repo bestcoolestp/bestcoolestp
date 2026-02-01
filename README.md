@@ -62,25 +62,20 @@ These are the projects I want recruiters to review first.
 
 ---
 
+## 📈 Continuous Learning & Growth
+
+I believe DevOps/SRE is a mindset of constant improvement. I document my daily deep-dives into cloud architecture to maintain a public "knowledge base."
+
+* **AWS Solutions Architect Associate Study Logs:** [View Learning Logs](https://github.com/bestcoolestp/DevOps-Portfolio/tree/main/learning-logs/aws-saa)  
+    *Focus: VPC Networking, IAM Security Policy design, and High-Availability patterns.*
+
+---
+
 ## 📂 Full DevOps / SRE Portfolio Repository
 
 For the complete set of case studies, infrastructure projects, and automation work, please visit the dedicated portfolio repository:
 
 🔗 **View full portfolio:**  [DevOps-Portfolio](https://github.com/bestcoolestp/DevOps-Portfolio)
-
----
-
-## 🧠 DevOps / SRE Mindset
-
-Across these projects, I focus on:
-
-- repeatable infrastructure
-- fast feedback (smoke tests)
-- failure investigation and root cause analysis
-- clear documentation for handoff and operation
-
-These are not “happy-path” demos — they include real integration issues and fixes
-encountered while working with Windows, Docker Desktop, Jenkins, and Kubernetes.
 
 ---
 
