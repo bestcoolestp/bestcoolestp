@@ -62,6 +62,30 @@ These are the projects I want recruiters to review first.
 
 ---
 
+### 3️⃣ Cloud Infrastructure Case Study — Terraform + Ansible (AWS EC2)
+
+📂 `infra-as-code/aws-terraform-ansible-ec2`
+
+**What this shows**
+- End-to-end Infrastructure-as-Code workflow on AWS
+- Clean separation of concerns:
+  - Terraform → infrastructure provisioning
+  - Ansible → post-provision host configuration
+- Secure SSH-based automation with real-world constraints (IP restriction, key handling)
+- Full lifecycle discipline (create → configure → verify → destroy)
+
+**Key skills demonstrated**
+- AWS networking fundamentals (VPC, subnet, routing, security groups)
+- Terraform stateful IaC and provider management
+- Ansible configuration management over SSH
+- Docker-based workload deployment on cloud VMs
+- Debugging across Windows, WSL, Linux, and AWS environments
+- Cost-aware teardown and infrastructure hygiene
+
+🔗 **View project:**  
+[infra-as-code/aws-terraform-ansible-ec2](https://github.com/bestcoolestp/DevOps-Portfolio/tree/main/infra-as-code/aws-terraform-ansible-ec2)
+
+
 ## 📈 Continuous Learning & Growth
 
 I believe DevOps/SRE is a mindset of constant improvement. I document my daily deep-dives into cloud architecture to maintain a public "knowledge base."
