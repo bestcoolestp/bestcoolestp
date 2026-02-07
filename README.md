@@ -8,7 +8,7 @@ Kubernetes, CI/CD automation, and production-focused troubleshooting.
 
 - ✅ **CKA – Certified Kubernetes Administrator (Nov 2025)**
 - Kubernetes • Docker • GitHub Actions • Jenkins
-- Terraform • Ansible • Linux • CI/CD
+- Terraform • Ansible • AWS • Linux • CI/CD
 - AWS Solutions Architect Associate — *in progress*
 - 2+ years professional software engineering experience
 
