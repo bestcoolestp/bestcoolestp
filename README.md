@@ -6,7 +6,7 @@
 I am a **software engineer transitioning into DevOps/SRE**, with hands-on experience designing, automating, and 
 operating **reliable systems** across cloud infrastructure, CI/CD pipelines, and Kubernetes platforms.
 
-My focus is on **infrastructure reliability, repeatable automation, and production-oriented troubleshooting**, rather than tool-only demonstrations.
+My focus is on **infrastructure reliability, repeatable automation, and production-oriented troubleshooting**, rather than isolated, tool-only demonstrations.
 
 - ✅ **CKA – Certified Kubernetes Administrator (Nov 2025)**
 - Kubernetes • Docker • Jenkins • Terraform • Ansible 
