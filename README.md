@@ -3,12 +3,14 @@
 **Target role:** Associate DevOps Engineer / SRE  
 **Location:** Seoul, South Korea (open to remote / relocation)
 
-I am a software engineer transitioning into DevOps/SRE, with hands-on experience in
-Kubernetes, CI/CD automation, and production-focused troubleshooting.
+I am a **software engineer transitioning into DevOps/SRE**, with hands-on experience designing, automating, and 
+operating **reliable systems** across cloud infrastructure, CI/CD pipelines, and Kubernetes platforms.
+
+My focus is on **infrastructure reliability, repeatable automation, and production-oriented troubleshooting**, rather than tool-only demonstrations.
 
 - ✅ **CKA – Certified Kubernetes Administrator (Nov 2025)**
-- Kubernetes • Docker • GitHub Actions • Jenkins
-- Terraform • Ansible • AWS • Linux • CI/CD
+- Kubernetes • Docker • Jenkins • Terraform • Ansible 
+- AWS • Linux • CI/CD • Observability fundamentals
 - AWS Solutions Architect Associate — *in progress*
 - 2+ years professional software engineering experience
 
@@ -18,51 +20,12 @@ Currently working as a Software Engineer at **IMGTech (South Korea)**.
 
 ## ⭐ Featured DevOps / SRE Case Studies
 
-These are the projects I want recruiters to review first.
+These case studies are ordered to reflect **how real production systems are built and operated**:
+**infrastructure → delivery → platform reliability**.
 
 ---
 
-### 1️⃣ Kubernetes Deployment Case Study (kind)
-
-📂 `k8s-projects/sample-app-deploy`
-
-**What this shows**
-- Containerized application deployment on Kubernetes
-- Core Kubernetes objects: Namespace, Deployment, Service
-- Horizontal scaling and self-healing behavior
-- Clear, reproducible documentation (runbook-style)
-
-**Key skills demonstrated**
-- Kubernetes workload design
-- Service networking
-- Reliability validation (replicas, pod recreation)
-- DevOps documentation discipline
-
-🔗 **View project:**  [k8s-projects/sample-app-deploy](https://github.com/bestcoolestp/DevOps-Portfolio/tree/main/k8s-projects/sample-app-deploy)
-
----
-
-### 2️⃣ CI/CD Case Study — Jenkins → kind → Kubernetes
-
-📂 `ci-cd/jenkins-kind-cicd`
-
-**What this shows**
-- End-to-end CI/CD pipeline using Jenkins
-- Docker image build and delivery
-- Automated Kubernetes deployment
-- Smoke testing with port-forward and health checks
-
-**Key skills demonstrated**
-- CI/CD pipeline design
-- Jenkins in containerized environments
-- Kubernetes automation
-- Real-world troubleshooting (Docker CLI, kubeconfig, TLS, endpoints)
-
-🔗 **View project:**  [ci-cd/jenkins-kind-cicd](https://github.com/bestcoolestp/DevOps-Portfolio/tree/main/ci-cd/jenkins-kind-cicd)
-
----
-
-### 3️⃣ Cloud Infrastructure Case Study — Terraform + Ansible (AWS EC2)
+### 1️⃣ Cloud Infrastructure Case Study — Terraform + Ansible (AWS EC2)
 
 📂 `infra-as-code/aws-terraform-ansible-ec2`
 
@@ -85,10 +48,52 @@ These are the projects I want recruiters to review first.
 🔗 **View project:**  
 [infra-as-code/aws-terraform-ansible-ec2](https://github.com/bestcoolestp/DevOps-Portfolio/tree/main/infra-as-code/aws-terraform-ansible-ec2)
 
+---
+
+### 2️⃣ CI/CD Case Study — Jenkins → Kubernetes (kind)
+
+📂 `ci-cd/jenkins-kind-cicd`
+
+**What this shows**
+- End-to-end CI/CD pipeline using Jenkins
+- Docker image build and delivery
+- Automated Kubernetes deployment
+- Smoke testing with port-forward and health checks
+
+**Key skills demonstrated**
+- CI/CD pipeline design
+- Jenkins in containerized environments
+- Kubernetes automation
+- Real-world troubleshooting (Docker CLI, kubeconfig, TLS, endpoints)
+
+🔗 **View project:**  [ci-cd/jenkins-kind-cicd](https://github.com/bestcoolestp/DevOps-Portfolio/tree/main/ci-cd/jenkins-kind-cicd)
+
+---
+
+### 3️⃣ Kubernetes Reliability Case Study — Application Deployment & Scaling
+
+📂 `k8s-projects/sample-app-deploy`
+
+**What this shows**
+- Containerized application deployment on Kubernetes
+- Core Kubernetes objects: Namespace, Deployment, Service
+- Horizontal scaling and self-healing behavior
+- Clear, reproducible documentation (runbook-style)
+
+**Key skills demonstrated**
+- Kubernetes workload design
+- Service networking
+- Reliability validation (replicas, pod recreation)
+- DevOps documentation discipline
+
+🔗 **View project:**  [k8s-projects/sample-app-deploy](https://github.com/bestcoolestp/DevOps-Portfolio/tree/main/k8s-projects/sample-app-deploy)
+
+---
 
 ## 📈 Continuous Learning & Growth
 
-I believe DevOps/SRE is a mindset of constant improvement. I document my daily deep-dives into cloud architecture to maintain a public "knowledge base."
+I treat DevOps/SRE as a discipline of continuous learning and system-level thinking.
+I maintain public study logs to document architectural reasoning and trade-offs.
 
 * **AWS Solutions Architect Associate Study Logs:** [View Learning Logs](https://github.com/bestcoolestp/DevOps-Portfolio/tree/main/learning-logs/aws-saa)  
     *Focus: VPC Networking, IAM Security Policy design, and High-Availability patterns.*
