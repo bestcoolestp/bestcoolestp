@@ -10,7 +10,7 @@ My focus is on **infrastructure reliability, repeatable automation, and producti
 
 - ✅ **CKA – Certified Kubernetes Administrator (Nov 2025)**
 - Kubernetes • Docker • Jenkins • Terraform • Ansible 
-- AWS • Linux • CI/CD • Observability fundamentals
+- AWS • Linux • CI/CD • Observability fundamentals (metrics, logs)
 - AWS Solutions Architect Associate — *in progress*
 - 2+ years professional software engineering experience
 
