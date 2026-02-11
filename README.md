@@ -95,7 +95,7 @@ These case studies are ordered to reflect **how real production systems are buil
 I treat DevOps/SRE as a discipline of continuous learning and system-level thinking.
 I maintain public study logs to document architectural reasoning and trade-offs.
 
-* **AWS Solutions Architect Associate Study Logs:** [View Learning Logs](https://github.com/bestcoolestp/DevOps-Portfolio/tree/main/learning-logs/aws-saa)  
+* **AWS Solutions Architect Associate Study Logs:** [View AWS Learning Logs](https://github.com/bestcoolestp/DevOps-Portfolio/tree/main/learning-logs/aws-saa)  
     *Focus: VPC Networking, IAM Security Policy design, and High-Availability patterns.*
 
 ---
