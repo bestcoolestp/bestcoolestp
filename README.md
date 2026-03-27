@@ -10,7 +10,7 @@ My focus is on **infrastructure reliability, repeatable automation, and producti
 
 - ✅ **CKA – Certified Kubernetes Administrator (Nov 2025)**
 - Kubernetes • Docker • Jenkins • Terraform • Ansible 
-- AWS • Linux • CI/CD • Observability fundamentals (metrics, logs)
+- AWS • Linux • CI/CD • Observability (metrics, dashboards, service health)
 - AWS Solutions Architect Associate — *in progress*
 - 2+ years professional software engineering experience
 
@@ -21,11 +21,32 @@ Currently working as a Software Engineer at **IMGTech (South Korea)**.
 ## ⭐ Featured DevOps / SRE Case Studies
 
 These case studies are ordered to reflect **how real production systems are built and operated**:
-**infrastructure → delivery → platform reliability**.
+**infrastructure → delivery → platform reliability → observability**.
 
 ---
+### 1️⃣ Observability Case Study — Prometheus + Grafana on Kubernetes
 
-### 1️⃣ Cloud Infrastructure Case Study — Terraform + Ansible (AWS EC2)
+📂 `observability`
+
+**What this shows**
+- End-to-end observability workflow for a Kubernetes-hosted Node.js service
+- Application-level instrumentation with Prometheus metrics
+- Kubernetes-native metric discovery using `ServiceMonitor`
+- Grafana dashboards for traffic, latency, memory, and availability
+- Pod-failure drill to validate self-healing with live operational visibility
+
+**Key skills demonstrated**
+- Prometheus instrumentation using `prom-client`
+- Grafana dashboard design for app and platform signals
+- Helm-based installation of `kube-prometheus-stack`
+- Kubernetes health probes and service monitoring
+- Reliability validation through failure simulation and recovery observation
+
+🔗 **View project:**  
+[observability](https://github.com/bestcoolestp/DevOps-Portfolio/tree/main/observability)
+
+---
+### 2️⃣ Cloud Infrastructure Case Study — Terraform + Ansible (AWS EC2)
 
 📂 `infra-as-code/aws-terraform-ansible-ec2`
 
@@ -50,7 +71,7 @@ These case studies are ordered to reflect **how real production systems are buil
 
 ---
 
-### 2️⃣ CI/CD Case Study — Jenkins → Kubernetes (kind)
+### 3️⃣ CI/CD Case Study — Jenkins → Kubernetes (kind)
 
 📂 `ci-cd/jenkins-kind-cicd`
 
@@ -70,7 +91,7 @@ These case studies are ordered to reflect **how real production systems are buil
 
 ---
 
-### 3️⃣ Kubernetes Reliability Case Study — Application Deployment & Scaling
+### 4️⃣ Kubernetes Reliability Case Study — Application Deployment & Scaling
 
 📂 `k8s-projects/sample-app-deploy`
 
