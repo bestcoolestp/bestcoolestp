@@ -11,7 +11,8 @@ My engineering philosophy centers on **infrastructure reliability, reproducible 
 
 ## 🏆 Key Credentials & Technical Highlights
 
-* **Certifications:** * ✅ **AWS Certified Solutions Architect – Associate (SAA)** (Earned: Jun 2026)
+* **Certifications:**
+  * ✅ **AWS Certified Solutions Architect – Associate (SAA)** (Earned: Jun 2026)
   * ✅ **CKA – Certified Kubernetes Administrator** (Earned: Nov 2025)
 * **Core Track Record:** Successfully managed **1,000% traffic spikes** for production-level administrative platforms, maintaining **99.9% availability** and reducing server resource consumption by **80%** through proactive performance tuning.
 * **Core Toolchain:** Kubernetes • Docker • AWS • Terraform • Ansible • Jenkins • Linux • GitHub Actions
