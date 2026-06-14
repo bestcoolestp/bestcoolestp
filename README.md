@@ -8,10 +8,10 @@ operating **reliable systems** across cloud infrastructure, CI/CD pipelines, and
 
 My focus is on **infrastructure reliability, repeatable automation, and production-oriented troubleshooting**, rather than isolated, tool-only demonstrations.
 
+- ✅ **AWS Certified Solutions Architect – Associate (SAA)** (Earned: Jun 2026)
 - ✅ **CKA – Certified Kubernetes Administrator (Nov 2025)**
 - Kubernetes • Docker • Jenkins • Terraform • Ansible 
 - AWS • Linux • CI/CD • Observability (metrics, dashboards, service health)
-- AWS Solutions Architect Associate — *in progress*
 - 2+ years professional software engineering experience
 
 Currently working as a Software Engineer at **IMGTech (South Korea)**.
