@@ -120,7 +120,7 @@ For the complete and comprehensive set of configurations, infrastructure templat
 
 ## 📚 Previous Software Engineering Experience (Archive)
 
-Prior to dedicating my focus to DevOps/SRE, I spent 2+ years working as a Professional Software Engineer, building high-concurrency systems and optimizng application codebases. This application-level depth gives me a distinct advantage in tracing production bugs back to the source code.
+Prior to dedicating my focus to DevOps/SRE, I spent 2+ years working as a Professional Software Engineer, building high-concurrency systems and optimizing application codebases. This application-level depth gives me a distinct advantage in tracing production bugs back to the source code.
 
 📂 **Archived Development Repositories:** [Full-Stack & Software Projects](https://github.com/bestcoolestp?tab=repositories)
 
