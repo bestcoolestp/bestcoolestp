@@ -27,7 +27,39 @@ These case studies reflect **how real-world cloud-native systems are systematica
 
 ---
 
-### 1️⃣ Cloud Infrastructure Case Study — Terraform + Ansible (AWS)
+### 1️⃣ Production Incident Case Study — HTTP 500 Member Synchronization
+
+📂 `production-incidents/http500-member-sync`
+
+**What this shows**
+
+- Investigation and resolution of a production member synchronization failure caused by intermittent HTTP 500 responses from an external Student Information API.
+- Root cause analysis using structured logging, SQL validation, and API response inspection.
+- Defensive JSON validation and resilient synchronization logic to prevent malformed responses from terminating the synchronization process.
+
+**Key skills demonstrated**
+
+- Production Incident Response
+- Root Cause Analysis
+- Reliability Engineering
+- REST API Troubleshooting
+- Defensive Programming
+- Structured Logging
+- ASP.NET MVC / C# / MySQL
+
+**Highlights**
+
+- Identified malformed API responses (`status=500`, `data=""`) as the true source of synchronization failures.
+- Eliminated synchronization interruptions through validation and graceful failure handling.
+- Successfully synchronized 34,000+ member records with zero post-fix synchronization errors.
+
+🔗 **View Case Study:**  
+https://github.com/bestcoolestp/DevOps-Portfolio/tree/main/production-incidents/http500-member-sync
+
+---
+
+
+### 2️⃣ Cloud Infrastructure Case Study — Terraform + Ansible (AWS)
 
 📂 `infra-as-code/aws-terraform-ansible-ec2`
 
@@ -46,7 +78,7 @@ These case studies reflect **how real-world cloud-native systems are systematica
 
 ---
 
-### 2️⃣ CI/CD Case Study — Jenkins ➔ Kubernetes (kind)
+### 3️⃣ CI/CD Case Study — Jenkins ➔ Kubernetes (kind)
 
 📂 `ci-cd/jenkins-kind-cicd`
 
@@ -64,7 +96,7 @@ These case studies reflect **how real-world cloud-native systems are systematica
 
 ---
 
-### 3️⃣ Kubernetes Reliability Case Study — Application Scaling & Self-Healing
+### 4️⃣ Kubernetes Reliability Case Study — Application Scaling & Self-Healing
 
 📂 `k8s-projects/sample-app-deploy`
 
@@ -82,7 +114,7 @@ These case studies reflect **how real-world cloud-native systems are systematica
 
 ---
 
-### 4️⃣ Observability Case Study — Prometheus + Grafana (kube-prometheus-stack)
+### 5️⃣ Observability Case Study — Prometheus + Grafana (kube-prometheus-stack)
 
 📂 `observability`
 
