@@ -53,8 +53,7 @@ These case studies reflect **how real-world cloud-native systems are systematica
 - Eliminated synchronization interruptions through validation and graceful failure handling.
 - Successfully synchronized 34,000+ member records with zero post-fix synchronization errors.
 
-🔗 **View Case Study:**  
-https://github.com/bestcoolestp/DevOps-Portfolio/tree/main/production-incidents/http500-member-sync
+🔗 **View Case Study:** [production-incidents/http500-member-sync](https://github.com/bestcoolestp/DevOps-Portfolio/tree/main/production-incidents/http500-member-sync)
 
 ---
 
