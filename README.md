@@ -49,6 +49,7 @@ My engineering philosophy centers on **infrastructure reliability, reproducible 
 - 🚧 PVC Issues
 
 🔗 **View Project:** [k8s-troubleshooting](https://github.com/bestcoolestp/DevOps-Portfolio/tree/main/k8s-troubleshooting)
+
 ---
 
 ## ⭐ Featured DevOps / SRE Case Studies
@@ -87,7 +88,6 @@ These case studies reflect **how real-world cloud-native systems are systematica
 🔗 **View Case Study:** [production-incidents/http500-member-sync](https://github.com/bestcoolestp/DevOps-Portfolio/tree/main/production-incidents/http500-member-sync)
 
 ---
-
 
 ### 2️⃣ Cloud Infrastructure Case Study — Terraform + Ansible (AWS)
 
