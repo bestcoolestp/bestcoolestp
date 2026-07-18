@@ -20,13 +20,6 @@ My engineering philosophy centers on **infrastructure reliability, reproducible 
 
 ---
 
-## ⭐ Featured DevOps / SRE Case Studies
-
-These case studies reflect **how real-world cloud-native systems are systematically built, delivered, and operated**:
-**Cloud Infrastructure (IaC) → Automated Delivery (CI/CD) → Platform Orchestration (K8s) → Full-Stack Observability**.
-
----
-
 ### 🆕 Kubernetes Troubleshooting Playbook
 
 📂 `k8s-troubleshooting`
@@ -56,8 +49,15 @@ These case studies reflect **how real-world cloud-native systems are systematica
 - 🚧 PVC Issues
 
 🔗 **View Project:** [k8s-troubleshooting](https://github.com/bestcoolestp/DevOps-Portfolio/tree/main/k8s-troubleshooting)
+---
+
+## ⭐ Featured DevOps / SRE Case Studies
+
+These case studies reflect **how real-world cloud-native systems are systematically built, delivered, and operated**:
+**Cloud Infrastructure (IaC) → Automated Delivery (CI/CD) → Platform Orchestration (K8s) → Full-Stack Observability**.
 
 ---
+
 ### 1️⃣ Production Incident Case Study — HTTP 500 Member Synchronization
 
 📂 `production-incidents/http500-member-sync`
