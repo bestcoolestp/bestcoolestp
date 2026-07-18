@@ -27,6 +27,37 @@ These case studies reflect **how real-world cloud-native systems are systematica
 
 ---
 
+### 🆕 Kubernetes Troubleshooting Playbook
+
+📂 `k8s-troubleshooting`
+
+**What this shows**
+
+- Systematic troubleshooting of real Kubernetes production-like incidents.
+- Root cause analysis using `kubectl describe`, Events, container logs, and resource inspection.
+- Step-by-step investigation workflows rather than command memorization.
+
+**Key skills demonstrated**
+
+- Kubernetes Troubleshooting
+- Root Cause Analysis
+- Incident Response
+- Production Debugging
+- Cluster Operations
+- Reliability Engineering
+
+**Current Scenarios**
+
+- ✅ ImagePullBackOff
+- 🚧 CrashLoopBackOff
+- 🚧 Pending Pods
+- 🚧 Service Connectivity
+- 🚧 NetworkPolicy
+- 🚧 PVC Issues
+
+🔗 **View Project:** [k8s-troubleshooting](https://github.com/bestcoolestp/DevOps-Portfolio/tree/main/k8s-troubleshooting)
+
+---
 ### 1️⃣ Production Incident Case Study — HTTP 500 Member Synchronization
 
 📂 `production-incidents/http500-member-sync`
