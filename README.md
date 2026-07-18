@@ -3,10 +3,9 @@
 **Target Role:** DevOps Engineer / Site Reliability Engineer (SRE)  
 **Location:** Seoul, South Korea (Open to Remote / Relocation)
 
-I am a **Software Engineer transitioning into DevOps/SRE**, combining a solid foundation in backend development with hands-on experience in designing, automating, and operating **highly available, production-grade systems** across cloud infrastructure, CI/CD pipelines, and Kubernetes platforms.
+I am a **Software Engineer transitioning into DevOps/SRE** with hands-on experience operating production SaaS platforms and building cloud-native infrastructure on AWS and Kubernetes.
 
-My engineering philosophy centers on **infrastructure reliability, reproducible automation, and metrics-driven troubleshooting**, rather than isolated, tool-only demonstrations. Driven by a "Life-long Learner" mindset, I actively bridge the gap between application logic and robust system architecture.
-
+I focus on **Infrastructure as Code, Kubernetes operations, CI/CD automation, observability, and production incident response**.
 ---
 
 ## 🏆 Key Credentials & Technical Highlights
