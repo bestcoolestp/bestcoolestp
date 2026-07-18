@@ -16,7 +16,7 @@ My primary interests are **Infrastructure as Code, Kubernetes operations, CI/CD 
   * ✅ **CKA – Certified Kubernetes Administrator** (Earned: Nov 2025)
 * **Core Track Record:** Successfully managed **1,000% traffic spikes** for production-level administrative platforms, maintaining **99.9% availability** and reducing server resource consumption by **80%** through proactive performance tuning.
 * **Core Toolchain:** Kubernetes • Docker • AWS • Terraform • Helm • Jenkins • Linux • GitHub Actions • Prometheus • Grafana
-* **SRE Expertise:** Infrastructure as Code (IaC), Observability (Prometheus, Grafana, Datadog), CI/CD Automation, Cluster Micro-segmentation, and Network Optimization.
+* **SRE Expertise:** Infrastructure as Code (Terraform), Kubernetes Operations, Production Incident Response, Observability (Prometheus, Grafana), CI/CD Automation, Linux Administration, and AWS Cloud Infrastructure.
 
 ---
 
