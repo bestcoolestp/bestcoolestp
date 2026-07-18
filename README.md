@@ -5,7 +5,7 @@
 
 I am a **Software Engineer** with hands-on experience operating **production SaaS platforms and building cloud-native infrastructure on AWS and Kubernetes**.
 
-I focus on **Infrastructure as Code, Kubernetes operations, CI/CD automation, observability, and production incident response**.
+My primary interests are **Infrastructure as Code, Kubernetes operations, CI/CD automation, cloud infrastructure, observability, and production incident response**.
 
 ---
 
