@@ -42,7 +42,7 @@ My primary interests are **Infrastructure as Code, Kubernetes operations, CI/CD 
 **Current Scenarios**
 
 - ✅ ImagePullBackOff
-- 🚧 CrashLoopBackOff
+- ✅ CrashLoopBackOff
 - ✅ Pending Pods
 - 🚧 Service Connectivity
 - 🚧 NetworkPolicy
