@@ -39,13 +39,16 @@ My primary interests are **Infrastructure as Code, Kubernetes operations, CI/CD 
 - Cluster Operations
 - Reliability Engineering
 
-**Current Scenarios**
+## Current Scenarios
 
 - ✅ ImagePullBackOff
-- ✅ Pending Pods
-- ✅ CrashLoopBackOff
-- ✅ ContainerCreating
+- ✅ Pending Pod - Insufficient CPU
+- ✅ Pending Pod - Untolerated Taint
+- ✅ CrashLoopBackOff - Nginx Permission Denied
+- ✅ ContainerCreating - hostPath Not a Directory
+- ✅ Pod Creation - ResourceQuota Exceeded
 - 🚧 Service Connectivity
+- 🚧 Ingress
 - 🚧 NetworkPolicy
 - 🚧 PVC Issues
 
