@@ -47,6 +47,7 @@ My primary interests are **Infrastructure as Code, Kubernetes operations, CI/CD 
 - ✅ CrashLoopBackOff - Nginx Permission Denied
 - ✅ ContainerCreating - hostPath Not a Directory
 - ✅ Pod Creation - ResourceQuota Exceeded
+- ✅ PodInitializing - Init Container Command Not Found
 - 🚧 Service Connectivity
 - 🚧 Ingress
 - 🚧 NetworkPolicy
