@@ -48,6 +48,7 @@ My primary interests are **Infrastructure as Code, Kubernetes operations, CI/CD 
 - ✅ ContainerCreating - hostPath Not a Directory
 - ✅ Pod Creation - ResourceQuota Exceeded
 - ✅ PodInitializing - Init Container Command Not Found
+- ✅ Deployment Creation - Selector/Label Mismatch
 - 🚧 Service Connectivity
 - 🚧 Ingress
 - 🚧 NetworkPolicy
