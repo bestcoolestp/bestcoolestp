@@ -49,6 +49,7 @@ My primary interests are **Infrastructure as Code, Kubernetes operations, CI/CD 
 - ✅ Pod Creation - ResourceQuota Exceeded
 - ✅ PodInitializing - Init Container Command Not Found
 - ✅ Deployment Creation - Selector/Label Mismatch
+- ✅ HPA - Metrics Server Unavailable
 - 🚧 Service Connectivity
 - 🚧 Ingress
 - 🚧 NetworkPolicy
