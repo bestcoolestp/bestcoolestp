@@ -67,6 +67,7 @@ My primary interests are **production reliability, infrastructure automation, Ku
 - ✅ PodInitializing — Init Container Command Not Found
 - ✅ Deployment Creation — Selector/Label Mismatch
 - ✅ HPA — Metrics Server Unavailable
+- ✅ DaemonSet - Control Plane Taint
 - 🚧 Service Connectivity
 - 🚧 Ingress
 - 🚧 NetworkPolicy
