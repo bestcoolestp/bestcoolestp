@@ -68,7 +68,7 @@ My primary interests are **production reliability, infrastructure automation, Ku
 - ✅ Deployment Creation — Selector/Label Mismatch
 - ✅ HPA — Metrics Server Unavailable
 - ✅ DaemonSet - Control Plane Taint
-- 🚧 Service Connectivity
+- ✅ Service Connectivity
 - 🚧 Ingress
 - 🚧 NetworkPolicy
 - 🚧 PVC Issues
