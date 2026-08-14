@@ -69,6 +69,7 @@ My primary interests are **production reliability, infrastructure automation, Ku
 - ✅ HPA — Metrics Server Unavailable
 - ✅ DaemonSet - Control Plane Taint
 - ✅ Service Connectivity
+- ✅ pending-pod-cordoned-node
 - 🚧 Ingress
 - 🚧 NetworkPolicy
 - 🚧 PVC Issues
