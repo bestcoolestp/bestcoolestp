@@ -70,6 +70,7 @@ My primary interests are **production reliability, infrastructure automation, Ku
 - ✅ DaemonSet - Control Plane Taint
 - ✅ Service Connectivity
 - ✅ pending-pod-cordoned-node
+- ✅ node-diskpressure-pod-eviction
 - 🚧 Ingress
 - 🚧 NetworkPolicy
 - 🚧 PVC Issues
