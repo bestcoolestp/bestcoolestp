@@ -71,6 +71,7 @@ My primary interests are **production reliability, infrastructure automation, Ku
 - ✅ Service Connectivity
 - ✅ pending-pod-cordoned-node
 - ✅ node-diskpressure-pod-eviction
+- ✅ kubeconfig-wrong-api-server
 - 🚧 Ingress
 - 🚧 NetworkPolicy
 - 🚧 PVC Issues
