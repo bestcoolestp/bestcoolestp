@@ -3,9 +3,9 @@
 **Target Role:** Production Systems Engineer / DevOps Engineer / Site Reliability Engineer  
 **Location:** Seoul, South Korea (Open to Remote / Relocation)
 
-I am a **Production Systems Engineer** with a software engineering background, experienced in operating production platforms, investigating real-world incidents, and improving system reliability through automation and cloud-native engineering
-My primary interests are **production reliability, infrastructure automation, Kubernetes operations, CI/CD, observability, cloud infrastructure, data integrity, and incident response**.
+I am a **Production Systems Engineer** with a software engineering background, experienced in operating production platforms, investigating real-world incidents, and improving system reliability through automation and cloud-native engineering.
 
+My engineering focus is **production reliability, incident response, infrastructure automation, Kubernetes operations, CI/CD, observability, cloud infrastructure, and data integrity**.
 ---
 
 ## 🏆 Key Credentials & Technical Highlights
