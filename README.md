@@ -73,6 +73,7 @@ My engineering focus is **production reliability, incident response, infrastruct
 - ✅ node-diskpressure-pod-eviction
 - ✅ kubeconfig-wrong-api-server
 - ✅ pod-priority-preemption
+- ✅ Topology Spread Constraints
 - 🚧 Ingress
 - 🚧 NetworkPolicy
 - 🚧 PVC Issues
